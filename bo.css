@@ -1,0 +1,41 @@
+.nav-link {
+	color: #908071;
+}
+
+a.nav-link:hover {
+	color:red;
+}
+.section-3 {
+	background: #fff;
+	
+}
+
+#welcome {
+	background-color: #000;
+	margin-top: 100px;
+}
+.navspace {
+	padding-right: 20px;
+}
+.row {
+	margin-bottom: 15px;
+}
+
+.navbar-text {
+	color: #908071;
+}
+
+.line {
+	border: 2px solid red;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.btn {
+	background: #012169;
+	color: #ffffff;
+}
+
+.tex {
+	color: #012169;
+}
